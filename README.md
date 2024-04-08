@@ -76,7 +76,6 @@ This command gets the most recent version of the Flutter SDK.
 
 If you are using the stable channel and want an even more recent version of the Flutter SDK, switch to the beta channel using flutter channel beta, and then run flutter upgrade.
 
-
 </br>
 
 ### 1. Adding a package dependency to your clone
@@ -96,22 +95,18 @@ $ flutter pub get
 # Android Studio/IntelliJ
 $ flutter pub get
 ```
-
 </br>
-
 ### OR
-
 </br>
 
 #### Visual Studio Code
 
 Click the Get Packages button located in the right-side action ribbon at the top of your pubspec.yaml file, indicated by the Download icon.
-
 </br>
 
 ### 2. Run
 
- Open the Command Palette.
+Open the Command Palette.
 
 ```bash
 Go to View > Command Palette or press + Shift + P.
@@ -122,12 +117,10 @@ Go to View > Command Palette or press + Shift + P.
 
 ### 4. Select the Flutter: Select Device.
 </br>
-
 If no devices are running, this command prompts you to enable a device.
 
 Select a target device from Select Device prompt.
 </br>
-
 ### 5. After you select a target, start the app. 
 </br>
 
