@@ -153,8 +153,8 @@ license and is available for free.
 [RaspberryPI]: https://github.com/irfanghapar/rice-rescue/blob/main/assets-readme/8.png
 [RaspberryPI-url]: https://www.raspberrypi.com/
 [Firebase]: https://github.com/irfanghapar/rice-rescue/blob/main/assets-readme/9.png
-[Firebase-url]: https://www.raspberrypi.com/
+[Firebase-url]: https://console.firebase.google.com/
 [Nodejs]: https://github.com/irfanghapar/rice-rescue/blob/main/assets-readme/10.png
-[Nodejs-url]: https://www.raspberrypi.com/
+[Nodejs-url]: https://nodejs.org/en
 [software-architecture]: https://github.com/irfanghapar/rice-rescue/blob/main/assets-readme/software-architecture
 
