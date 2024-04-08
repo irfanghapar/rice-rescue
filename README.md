@@ -210,7 +210,7 @@ If you have a question that isn't answered in this FAQ, feel free to reach out t
 
 -  Open a new issue on GitHub with your question.
 - Join our community Discord server and ask for help in the appropriate channel.
-- Contact us directly via email at ricerescue@email.com.
+- Contact us directly via email at ricerescue@gmail.com.
 
 ### 5. Who can use this app
 
