@@ -18,21 +18,20 @@ and we are open for any issues or feature request.
 
 ![](https://github.com/irfanghapar/rice-rescue/blob/main/Rice%20Rescue%20V2.0.png)
 
-## Table Of Content
-
-- [Features](#Features)
-- [Built With](#builtWith)
-    - [Database setup](#database-setup)
-    - [Security](#security)
-- [Page setup](#page-setup)
-    - [Download the Aimeos Page Tree t3d file](#download-the-aimeos-page-tree-t3d-file)
-    - [Go to the Import View](#go-to-the-import-view)
-    - [Upload the page tree file](#upload-the-page-tree-file)
-    - [Go to the import view](#go-to-the-import-view)
-    - [Import the page tree](#import-the-page-tree)
-    - [SEO-friendly URLs](#seo-friendly-urls)
-- [License](#license)
-- [Links](#links)
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#features">Features</a><li>
+    <li><a href="#features">Built With</a><li>
+    <li><a href="#usage">System Design</a></li>
+    <li><a href="#roadmap">Installations</a></li>
+    <li><a href="#contributing">Contributions</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Acknowledgements</a></li>
+    <li><a href="#acknowledgments">FAQ</a></li>
+  </ol>
+</details>
 
 # Features 📱
 
@@ -161,17 +160,41 @@ Go to Run > Start Debugging or press F5.
 You can watch the launch progress in the Debug Console view. After the app build completes, your device displays your app.
 </br>
 
+# Contributors
+
+We would like to extend our heartfelt appreciation to the following individuals who have contributed their time, expertise, and dedication to this project:
+
+- [Haziq Hakimi](https://github.com/johndoe) - Project Lead / IOT Developer
+- [Irfan Ghapar](https://github.com/irfanghapar) - Tech Lead / UI/UX Designer
+- [Haris Azhari](https://github.com/michaeljohnson) - AI Engineer
+- [Hakim Zul](https://github.com/Kymzul) - Flutter Full Stack Developer
+
 # License
 
 This project is licensed under the [University Putra Malaysia (UPM)](https://www.upm.edu.my/) and is available free for now.
 
-# Links
+# Acknowledgments
 
-* [Web site](https://aimeos.org/integrations/typo3-shop-extension/)
-* [Documentation](https://aimeos.org/docs/TYPO3)
-* [Forum](https://aimeos.org/help/typo3-extension-f16/)
-* [Issue tracker](https://github.com/aimeos/aimeos-typo3/issues)
-* [Source code](https://github.com/aimeos/aimeos-typo3)
+We would like to express our sincere gratitude to the following individuals, organizations, and open-source projects that have contributed to the success of this project:
+
+## Open-Source Frameworks and Libraries
+
+- [Kaggle](https://www.kaggle.com/) - For providing the datasets and resources used in the development of the AI-powered monitoring feature.
+- [Firebase](https://firebase.google.com/) - The comprehensive app development platform by Google, which provided the backend infrastructure, including the Firestore database, Authentication, and Storage services.
+- [Flutter](https://flutter.dev/) - The open-source mobile application development framework by Google, which powered the cross-platform development of this application.
+- [Dart](https://dart.dev/) - The programming language used to build the Flutter application.
+- [Android Studio](https://developer.android.com/studio) - The Integrated Development Environment (IDE) used to develop the Android version of the application.
+- [TensorFlow](https://www.tensorflow.org/) - The open-source machine learning library used for the AI-powered monitoring feature.
+- [MongoDB](https://www.mongodb.com/) - The open-source NoSQL database used for data storage and management.
+
+We would also like to acknowledge the following individuals and organizations for their invaluable contributions:
+
+- [Team Zetten] - For their guidance and support in the project's initial stages.
+- [UPM](https://www.upm.com/) - For their partnership and collaboration in the integration of IoT sensors and precision farming technologies.
+
+We are grateful for the support and inspiration provided by the entire community of farmers, agronomists, and technology enthusiasts who have shared their knowledge and experiences. Your contributions have been invaluable in shaping the direction and development of this project.
+
+Thank you all for your unwavering support and dedication. Together, we are revolutionizing the world of paddy farming.
 
 # FAQ
 
