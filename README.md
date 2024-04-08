@@ -1,5 +1,5 @@
 <a href="https://github.com/irfanghapar/rice-rescue">
-    <img src="https://aimeos.org/fileadmin/template/icons/logo.png" alt="Aimeos logo" title="Aimeos" align="right" height="60" />
+    <img src="https://github.com/irfanghapar/rice-rescue/blob/main/assets-readme/logo.svg" alt="rice-rescue logo" title="rice-rescue" align="right" height="60" />
 </a>
 
 # Rice Rescue Mobile Application
