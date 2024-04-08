@@ -8,18 +8,20 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/aimeos/aimeos-typo3/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/aimeos/aimeos-typo3/?branch=master)
 [![License](https://poser.pugx.org/aimeos/aimeos-typo3/license.svg)](https://packagist.org/packages/aimeos/aimeos-typo3)
 
+# Welcome to Rice Rescue 🌾
+
 :star: Star us on GitHub — it motivates us a lot!
 
 [Rice Rescue](https://youtu.be/aIy220RJAAI) is a professional, Smart Farming App, with Precision Data
 & AI Driven Technology for paddy care from seed to harvest 🌱. This app is still in development
 and we are open for any issues or feature request.
 
-![aimeos-frontend](https://github.com/irfanghapar/rice-rescue/blob/main/Rice%20Rescue%20V2.0.png)
+![](https://github.com/irfanghapar/rice-rescue/blob/main/Rice%20Rescue%20V2.0.png)
 
 ## Table Of Content
 
-- [Installation](#installation)
-- [TYPO3 setup](#typo3-setup)
+- [Features](#Features)
+- [Built With](#builtWith)
     - [Database setup](#database-setup)
     - [Security](#security)
 - [Page setup](#page-setup)
@@ -32,7 +34,39 @@ and we are open for any issues or feature request.
 - [License](#license)
 - [Links](#links)
 
-### Built With
+# Features 📱
+
+### 1. Task Creation 📝
+**Streamline** the farming process by creating tasks tailored to your paddy cultivation needs. Our intuitive interface guides you through task creation, ensuring efficiency and accuracy in managing your farm operations. This is useful if you have a big team in you farm
+
+### 2. Precision Mapping 🔎
+Utilize our **precise mapping** feature to delineate and mark your farming locations. Draw maps directly within the application, allowing you to visualize and strategize your farming activities with precision.
+
+### 3. AI-Powered Monitoring 🤖
+Harness the power of artificial intelligence to monitor the health and condition of your paddy crops in real-time. Our AI system analyzes images captured by smartphones to **detect diseases, nutrient deficiencies, and pest infestations**, enabling early intervention and optimization of crop yield.
+
+### 4. Pest and Disease Management 🐀
+Scout your paddy fields for signs of pests and diseases, and implement integrated pest management (IPM) practices for effective control. Our application utilizes **IoT technology** and **machine learning algorithms** to identify pests and their locations, empowering you to make informed decisions and safeguard your crops.
+
+### 5. Personalized Experience 👤
+Tailor your experience to your specific farming requirements. Whether you're a seasoned agricultural expert or a novice farmer, Rice Rescue provides customizable features and insights to support your unique needs and goals.
+
+### 6. Weather Monitoring 🌤️
+Stay informed about the weather conditions that impact your paddy cultivation. Our app integrates with weather data sources to provide real-time updates on temperature, rainfall, humidity, and other relevant meteorological factors, helping you plan your farming activities accordingly.
+
+### 7. Tailored Education 📚
+Access a comprehensive database of educational resources and best practices tailored to paddy farming. Our app offers interactive tutorials, video guides, and expert-curated content to help you continuously improve your farming techniques and stay up-to-date with the latest advancements in the industry.
+
+### 8. IoT Moisture and Sensor Integration 🌱
+Leverage the power of IoT technology to monitor the soil moisture and environmental conditions in your paddy fields. Our app seamlessly integrates with wireless sensors and smart devices, providing real-time data insights to optimize irrigation, nutrient management, and overall crop health.
+
+### 9. Machinery Management 🚜
+Efficiently manage your farm machinery and equipment. Our app allows you to track the usage, maintenance, active and inactive of your tractors, harvesters, and other agricultural tools, ensuring optimal operational efficiency and minimizing downtime.
+
+### 10. Farmer's Marketplace 🛒
+Access a thriving online marketplace where you can see al paddy-related products, services, and equipment. Connect with a community of fellow farmers, suppliers, and industry experts to expand your business opportunities and access a wider range of resources.
+
+# Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
@@ -48,7 +82,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Nodejs][Nodejs]][Nodejs-url]
 </br>
 
-### System Design
+# System Design
 
 This section should despict any major frameworks/libraries used to bootstrap the project. It also shows how it connects between each other
 
@@ -57,7 +91,7 @@ This section should despict any major frameworks/libraries used to bootstrap the
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Installation
+# Installation
 
 This document is for the latest Rice Rescue 2.0 release and later.
 
@@ -127,18 +161,50 @@ Go to Run > Start Debugging or press F5.
 You can watch the launch progress in the Debug Console view. After the app build completes, your device displays your app.
 </br>
 
-## License
+# License
 
-The Aimeos TYPO3 extension is licensed under the terms of the GPL Open Source
-license and is available for free.
+This project is licensed under the [University Putra Malaysia (UPM)](https://www.upm.edu.my/) and is available free for now.
 
-## Links
+# Links
 
 * [Web site](https://aimeos.org/integrations/typo3-shop-extension/)
 * [Documentation](https://aimeos.org/docs/TYPO3)
 * [Forum](https://aimeos.org/help/typo3-extension-f16/)
 * [Issue tracker](https://github.com/aimeos/aimeos-typo3/issues)
 * [Source code](https://github.com/aimeos/aimeos-typo3)
+
+# FAQ
+
+### 1. I found a bug in the project. What should I do?
+
+If you've encountered a bug or issue in the project, please follow these steps:
+
+1. Check the existing issues on GitHub to see if the problem has already been reported.
+2. If the issue hasn't been reported yet, open a new issue on GitHub. Be sure to provide detailed steps to reproduce the issue and any relevant information about your environment.
+3. Our team will review the issue and work on fixing it as soon as possible.
+
+### 2. How can I contribute to the project?
+
+We welcome contributions from the community! To contribute to the project, follow these steps:
+
+1. Fork the repository on GitHub.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them to your branch.
+4. Push your changes to your fork on GitHub.
+5. Submit a pull request, detailing the changes you've made and why they're necessary.
+
+### 4. I have a question that's not covered here. How can I get help?
+
+If you have a question that isn't answered in this FAQ, feel free to reach out to us! You can:
+
+-  Open a new issue on GitHub with your question.
+- Join our community Discord server and ask for help in the appropriate channel.
+- Contact us directly via email at ricerescue@email.com.
+
+### 5. Who can use this app
+
+Rice Rescue is designed for anyone involved in paddy farming, including farmers, agricultural experts, enthusiasts, small paddy producers, and established enterprises looking to optimize their farming practices.<br>
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
