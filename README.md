@@ -78,6 +78,7 @@ If you are using the stable channel and want an even more recent version of the 
 
 
 </br>
+
 ### 1. Adding a package dependency to your clone
 
 To add the package for example, flutter_svg, to your repositories:
@@ -97,9 +98,11 @@ $ flutter pub get
 ```
 
 </br>
+
 ### OR
 
 </br>
+
 #### Visual Studio Code
 
 Click the Get Packages button located in the right-side action ribbon at the top of your pubspec.yaml file, indicated by the Download icon.
