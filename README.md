@@ -97,7 +97,6 @@ $ flutter pub get
 ```
 
 ### OR
-</br>
 
 #### Visual Studio Code
 
