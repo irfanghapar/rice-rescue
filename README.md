@@ -19,19 +19,7 @@ and we are open for any issues or feature request.
 ![](https://github.com/irfanghapar/rice-rescue/blob/main/Rice%20Rescue%20V2.0.png)
 
 <!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#features">Features</a><li>
-    <li><a href="#built-with">Built With</a><li>
-    <li><a href="#system-design">System Design</a></li>
-    <li><a href="#installations">Installations</a></li>
-    <li><a href="#contributions">Contributions</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-    <li><a href="#FAQ">FAQ</a></li>
-  </ol>
-</details>
+<details> <summary>Table of Contents</summary> <ol> <li><a href="#features">Features</a></li> <li><a href="#built-with">Built With</a></li> <li><a href="#system-design">System Design</a></li> <li><a href="#installation">Installation</a></li> <li><a href="#contributions">Contributions</a></li> <li><a href="#license">License</a></li> <li><a href="#acknowledgments">Acknowledgments</a></li> <li><a href="#faq">FAQ</a></li> </ol> </details>
 
 # Features 📱
 
