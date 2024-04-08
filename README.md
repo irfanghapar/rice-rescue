@@ -23,13 +23,13 @@ and we are open for any issues or feature request.
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#features">Features</a><li>
-    <li><a href="#features">Built With</a><li>
-    <li><a href="#usage">System Design</a></li>
-    <li><a href="#roadmap">Installations</a></li>
-    <li><a href="#contributing">Contributions</a></li>
+    <li><a href="#built-with">Built With</a><li>
+    <li><a href="#system-design">System Design</a></li>
+    <li><a href="#installations">Installations</a></li>
+    <li><a href="#contributions">Contributions</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Acknowledgements</a></li>
-    <li><a href="#acknowledgments">FAQ</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#FAQ">FAQ</a></li>
   </ol>
 </details>
 
@@ -189,7 +189,7 @@ We would like to express our sincere gratitude to the following individuals, org
 
 We would also like to acknowledge the following individuals and organizations for their invaluable contributions:
 
-- [Team Zetten] - For their guidance and support in the project's initial stages.
+- Team Zetten - For their guidance and support in the project's initial stages.
 - [UPM](https://www.upm.com/) - For their partnership and collaboration in the integration of IoT sensors and precision farming technologies.
 
 We are grateful for the support and inspiration provided by the entire community of farmers, agronomists, and technology enthusiasts who have shared their knowledge and experiences. Your contributions have been invaluable in shaping the direction and development of this project.
