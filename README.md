@@ -51,9 +51,6 @@ This section should despict any major frameworks/libraries used to bootstrap the
 
 * [![software-architecture][software-architecture]][software-architecture]
 
-
-Change the description to what ever related to the system design
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -155,5 +152,9 @@ license and is available for free.
 [MongoDB-url]: https://www.mongodb.com/
 [RaspberryPI]: https://github.com/irfanghapar/rice-rescue/blob/main/assets-readme/8.png
 [RaspberryPI-url]: https://www.raspberrypi.com/
+[Firebase]: https://github.com/irfanghapar/rice-rescue/blob/main/assets-readme/9.png
+[Firebase-url]: https://www.raspberrypi.com/
+[Nodejs]: https://github.com/irfanghapar/rice-rescue/blob/main/assets-readme/10.png
+[Nodejs-url]: https://www.raspberrypi.com/
 [software-architecture]: https://github.com/irfanghapar/rice-rescue/blob/main/assets-readme/software-architecture
 
