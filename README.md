@@ -75,7 +75,7 @@ This command gets the most recent version of the Flutter SDK.
 
 If you are using the stable channel and want an even more recent version of the Flutter SDK, switch to the beta channel using flutter channel beta, and then run flutter upgrade.
 
-#### 1. Adding a package dependency to your local clone
+### 1. Adding a package dependency to your clone
 
 To add the package for example, flutter_svg, to your repositories:
 
@@ -83,7 +83,7 @@ Open the `pubspec.yaml` file inside the app folder, and add css_colors: under de
 
 Install it
 
-##### 1.1 From the terminal: 
+1.1 From the terminal: 
 
 ```bash
 # Visual Studio Code
@@ -99,7 +99,7 @@ $ flutter pub get
 
 Click the Get Packages button located in the right-side action ribbon at the top of your pubspec.yaml file, indicated by the Download icon.
 
-#### 2. Run
+### 2. Run
 
  Open the Command Palette.
 
@@ -107,15 +107,15 @@ Click the Get Packages button located in the right-side action ribbon at the top
 Go to View > Command Palette or press + Shift + P.
 ```
 
-#### 3. Type `flutter`
+### 3. Type `flutter`
 
-#### 4. Select the Flutter: Select Device.
+### 4. Select the Flutter: Select Device.
 
 If no devices are running, this command prompts you to enable a device.
 
 Select a target device from Select Device prompt.
 
-#### 5. After you select a target, start the app. 
+### 5. After you select a target, start the app. 
 
 ```bash
 Go to Run > Start Debugging or press F5.
