@@ -57,8 +57,8 @@ This document is for the latest Aimeos TYPO3 **2.0 release and later**.
 
 **Note:** Flutter 3.0.0+ is required!
 
-The latest Flutter version can be installed via command line. This is useful if you want to run the installations automatically or play with the latest code.
-To update the Flutter SDK use the flutter upgrade command:
+The latest Flutter version can be installed via the command line. This is useful if you want to run the installations automatically or play with the latest code.
+To update the Flutter SDK use the `flutter upgrade` command:
 
 ```bash
 $ flutter upgrade
@@ -67,16 +67,15 @@ This command gets the most recent version of the Flutter SDK.
 
 If you are using the stable channel and want an even more recent version of the Flutter SDK, switch to the beta channel using flutter channel beta, and then run flutter upgrade.
 
-### 1. Adding a package dependency to your local clone
+#### 1. Adding a package dependency to your local clone
 
-To add the package, for example flutter_svg, to your repositories:
+To add the package for example, flutter_svg, to your repositories:
 
-#### Depend on it
+Open the `pubspec.yaml` file inside the app folder, and add css_colors: under dependencies.
 
-Open the `pubspec.yaml` file located inside the app folder, and add css_colors: under dependencies.
 Install it
 
-From the terminal: 
+##### 1.1 From the terminal: 
 
 ```bash
 # Visual Studio Code
@@ -92,9 +91,9 @@ $ flutter pub get
 
 Click the Get Packages button located in the right-side action ribbon at the top of your pubspec.yaml file, indicated by the Download icon.
 
-### 2. Run
+#### 2. Run
 
-#### 2.1 Open the Command Palette.
+##### 2.1 Open the Command Palette.
 
 ```bash
 Go to View > Command Palette or press + Shift + P.
@@ -128,3 +127,35 @@ license and is available for free.
 * [Forum](https://aimeos.org/help/typo3-extension-f16/)
 * [Issue tracker](https://github.com/aimeos/aimeos-typo3/issues)
 * [Source code](https://github.com/aimeos/aimeos-typo3)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/othneildrew
+[product-screenshot]: images/screenshot.png
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[Vue-url]: https://vuejs.org/
+[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[Angular-url]: https://angular.io/
+[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
+[Svelte-url]: https://svelte.dev/
+[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[Laravel-url]: https://laravel.com
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com
+[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[JQuery-url]: https://jquery.com 
