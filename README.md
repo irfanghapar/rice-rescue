@@ -46,7 +46,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![RaspberryPI][RaspberryPI]][RaspberryPI-url]
 * [![Firebase][Firebase]][Firebase-url]
 * [![Nodejs][Nodejs]][Nodejs-url]
-
+<br>
 
 ### System Design
 
@@ -77,7 +77,7 @@ This command gets the most recent version of the Flutter SDK.
 If you are using the stable channel and want an even more recent version of the Flutter SDK, switch to the beta channel using flutter channel beta, and then run flutter upgrade.
 
 
-
+<br>
 ### 1. Adding a package dependency to your clone
 
 To add the package for example, flutter_svg, to your repositories:
@@ -96,15 +96,15 @@ $ flutter pub get
 $ flutter pub get
 ```
 
-
+<br>
 ### OR
 
-
+<br>
 #### Visual Studio Code
 
 Click the Get Packages button located in the right-side action ribbon at the top of your pubspec.yaml file, indicated by the Download icon.
 
-
+<br>
 
 ### 2. Run
 
@@ -115,23 +115,24 @@ Go to View > Command Palette or press + Shift + P.
 ```
 
 ### 3. Type `flutter`
-
+<br>
 
 ### 4. Select the Flutter: Select Device.
-
+<br>
 
 If no devices are running, this command prompts you to enable a device.
 
 Select a target device from Select Device prompt.
-
+<br>
 
 ### 5. After you select a target, start the app. 
-
+<br>
 
 ```bash
 Go to Run > Start Debugging or press F5.
 ```
 You can watch the launch progress in the Debug Console view. After the app build completes, your device displays your app.
+<br>
 
 ## License
 
