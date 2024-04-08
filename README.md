@@ -49,7 +49,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 This section should despict any major frameworks/libraries used to bootstrap the project. It also shows how it connects between each other
 
-* [![Flutter][Flutter]][Flutter-url]
+* [![software-architecture][software-architecture]][software-architecture]
 
 
 Change the description to what ever related to the system design
@@ -155,5 +155,5 @@ license and is available for free.
 [MongoDB-url]: https://www.mongodb.com/
 [RaspberryPI]: https://github.com/irfanghapar/rice-rescue/blob/main/assets-readme/8.png
 [RaspberryPI-url]: https://www.raspberrypi.com/
-[Flutter]: https://github.com/irfanghapar/rice-rescue/blob/main/assets-readme/1.png
+[software-architecture]: https://github.com/irfanghapar/rice-rescue/blob/main/assets-readme/software-architecture
 
