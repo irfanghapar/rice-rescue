@@ -77,6 +77,7 @@ This command gets the most recent version of the Flutter SDK.
 If you are using the stable channel and want an even more recent version of the Flutter SDK, switch to the beta channel using flutter channel beta, and then run flutter upgrade.
 </br>  
 
+
 ### 1. Adding a package dependency to your clone
 
 To add the package for example, flutter_svg, to your repositories:
@@ -94,7 +95,7 @@ $ flutter pub get
 # Android Studio/IntelliJ
 $ flutter pub get
 ```
-</br>
+
 ### OR
 </br>
 
