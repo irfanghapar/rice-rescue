@@ -44,6 +44,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Kaggle][Kaggle]][Kaggle-url]
 * [![MongoDB][MongoDB]][MongoDB-url]
 * [![RaspberryPI][RaspberryPI]][RaspberryPI-url]
+* [![Firebase][Firebase]][Firebase-url]
+* [![Nodejs][Nodejs]][Nodejs-url]
 
 ### System Design
 
