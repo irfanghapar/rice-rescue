@@ -36,14 +36,14 @@ and we are open for any issues or feature request.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Flutter][Flutter]][Flutter-url]
+* [![TensorFlow][TensorFlow]][TensorFlow-url]
+* [![Google Maps][Google Maps]][Google-Maps-url]
+* [![OpenAI][OpenAI]][OpenAI-url]
+* [![Weather][Weather]][Weather-url]
+* [![Kaggle][Kaggle]][Kaggle-url]
+* [![MongoDB][MongoDB]][MongoDB-url]
+* [![RaspberryPI][RaspberryPI]][RaspberryPI-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,19 +130,19 @@ license and is available for free.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[Flutter]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Flutter-url]: https://nextjs.org/
-[TensorFlow]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[TensorFlow-url]: https://reactjs.org/
-[Google Maps]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Google-Maps-url]: https://vuejs.org/
-[OpenAI]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[OpenAI-url]: https://angular.io/
-[Weather]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Weather-url]: https://svelte.dev/
-[Kaggle]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Kaggle-url]: https://laravel.com
-[MongoDB]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[MongoDB-url]: https://getbootstrap.com
-[RaspberryPI]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[RaspberryPI-url]: https://jquery.com 
+[Flutter]: https://github.com/irfanghapar/rice-rescue/blob/main/assets-readme/1.png
+[Flutter-url]: https://flutter.dev/
+[TensorFlow]: https://github.com/irfanghapar/rice-rescue/blob/main/assets-readme/2.png
+[TensorFlow-url]: https://www.tensorflow.org/
+[Google Maps]: https://github.com/irfanghapar/rice-rescue/blob/main/assets-readme/3.png
+[Google-Maps-url]: https://developers.google.com/maps
+[OpenAI]: https://github.com/irfanghapar/rice-rescue/blob/main/assets-readme/4.png
+[OpenAI-url]: https://platform.openai.com/
+[Weather]: https://github.com/irfanghapar/rice-rescue/blob/main/assets-readme/5.png
+[Weather-url]: https://openweathermap.org/api
+[Kaggle]: https://github.com/irfanghapar/rice-rescue/blob/main/assets-readme/6.png
+[Kaggle-url]: https://www.kaggle.com/docs/api
+[MongoDB]: https://github.com/irfanghapar/rice-rescue/blob/main/assets-readme/7.png
+[MongoDB-url]: https://www.mongodb.com/
+[RaspberryPI]: https://github.com/irfanghapar/rice-rescue/blob/main/assets-readme/8.png
+[RaspberryPI-url]: https://www.raspberrypi.com/
