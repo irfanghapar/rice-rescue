@@ -32,6 +32,22 @@ and we are open for any issues or feature request.
 - [License](#license)
 - [Links](#links)
 
+### Built With
+
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 ## Installation
 
 This document is for the latest Aimeos TYPO3 **2.0 release and later**.
@@ -78,25 +94,27 @@ Click the Get Packages button located in the right-side action ribbon at the top
 
 ### 2. Run
 
-2.1 Open the Command Palette.
+#### 2.1 Open the Command Palette.
 
+```bash
 Go to View > Command Palette or press + Shift + P.
+```
 
-Type flutter
+#### 3. Type `flutter`
 
-Select the Flutter: Select Device.
+#### 4. Select the Flutter: Select Device.
 
 If no devices are running, this command prompts you to enable a device.
 
 Select a target device from Select Device prompt.
 
-After you select a target, start the app. Go to Run > Start Debugging or press F5.
+#### 5. After you select a target, start the app. 
 
-Wait for the app to launch.
+```bash
+Go to Run > Start Debugging or press F5.
+```
 
-You can watch the launch progress in the Debug Console view.
-
-After the app build completes, your device displays your app.
+You can watch the launch progress in the Debug Console view. After the app build completes, your device displays your app.
 
 ## License
 
