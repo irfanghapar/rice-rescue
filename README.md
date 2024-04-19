@@ -23,35 +23,38 @@ and we are open for any issues or feature request.
 
 # Features 📱
 
-### 1. Task Creation 📝
-**Streamline** the farming process by creating tasks tailored to your paddy cultivation needs. Our intuitive interface guides you through task creation, ensuring efficiency and accuracy in managing your farm operations. This is useful if you have a big team in you farm
-
-### 2. Precision Mapping 🔎
+### 1. Hyperlocalisation Mapping 🔎
 Utilize our **precise mapping** feature to delineate and mark your farming locations. Draw maps directly within the application, allowing you to visualize and strategize your farming activities with precision.
 
-### 3. AI-Powered Monitoring 🤖
-Harness the power of artificial intelligence to monitor the health and condition of your paddy crops in real-time. Our AI system analyzes images captured by smartphones to **detect diseases, nutrient deficiencies, and pest infestations**, enabling early intervention and optimization of crop yield.
+### 2. AI Plant Health Analysis 🤖
+Provides insights on nutrient levels for disease detection with a simple snap-and-go
 
-### 4. Pest and Disease Management 🐀
-Scout your paddy fields for signs of pests and diseases, and implement integrated pest management (IPM) practices for effective control. Our application utilizes **IoT technology** and **machine learning algorithms** to identify pests and their locations, empowering you to make informed decisions and safeguard your crops.
+### 4. Pest and Disease Detection 🐀
+Scout your paddy fields for signs of pests and diseases, and practices for effective control. Our application utilizes **IoT technology** and **machine learning algorithms** to identify pests and their locations, empowering you to make informed decisions and safeguard your crops.
 
-### 5. Personalized Experience 👤
-Tailor your experience to your specific farming requirements. Whether you're a seasoned agricultural expert or a novice farmer, Rice Rescue provides customizable features and insights to support your unique needs and goals.
+### 5. Task Creation 📝
+**Streamline** the farming process by creating tasks tailored to your paddy cultivation needs. Our intuitive interface guides you through task creation, ensuring efficiency and accuracy in managing your farm operations. 
 
-### 6. Weather Monitoring 🌤️
+### 6. Team Management 👥
+Optimized tasks and seamless team management for efficient paddy operations. This is useful for if you have big team members.
+
+### 7. Weather Monitoring 🌤️
 Stay informed about the weather conditions that impact your paddy cultivation. Our app integrates with weather data sources to provide real-time updates on temperature, rainfall, humidity, and other relevant meteorological factors, helping you plan your farming activities accordingly.
 
-### 7. Tailored Education 📚
+### 8. Tailored Education 📚
 Access a comprehensive database of educational resources and best practices tailored to paddy farming. Our app offers interactive tutorials, video guides, and expert-curated content to help you continuously improve your farming techniques and stay up-to-date with the latest advancements in the industry.
 
-### 8. IoT Moisture and Sensor Integration 🌱
+### 9. IoT Moisture and Temperature Integration 🌱 - PaddyX
 Leverage the power of IoT technology to monitor the soil moisture and environmental conditions in your paddy fields. Our app seamlessly integrates with wireless sensors and smart devices, providing real-time data insights to optimize irrigation, nutrient management, and overall crop health.
 
-### 9. Machinery Management 🚜
+### 10. Machinery Management 🚜
 Efficiently manage your farm machinery and equipment. Our app allows you to track the usage, maintenance, active and inactive of your tractors, harvesters, and other agricultural tools, ensuring optimal operational efficiency and minimizing downtime.
 
-### 10. Farmer's Marketplace 🛒
+### 11. Farmer's Marketplace 🛒
 Access a thriving online marketplace where you can see al paddy-related products, services, and equipment. Connect with a community of fellow farmers, suppliers, and industry experts to expand your business opportunities and access a wider range of resources.
+
+### 11. Chatbot & Live Forum 🤖
+Paddy farming support through our chatbot and live community forum
 
 # Built With
 
