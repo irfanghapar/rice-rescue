@@ -53,7 +53,7 @@ Efficiently manage your farm machinery and equipment. Our app allows you to trac
 ### 11. Farmer's Marketplace 🛒
 Access a thriving online marketplace where you can see al paddy-related products, services, and equipment. Connect with a community of fellow farmers, suppliers, and industry experts to expand your business opportunities and access a wider range of resources.
 
-### 11. Chatbot & Live Forum 🤖
+### 12. Chatbot & Live Forum 🤖
 Paddy farming support through our chatbot and live community forum
 
 # Built With
